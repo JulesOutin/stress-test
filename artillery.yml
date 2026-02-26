@@ -1,5 +1,5 @@
 config:
-  target: "https://stresstest-azexewcgg4d5hmed.francecentral-01.azurewebsites.net/"
+  target: "https://stress-testjules-f8gnamerb4b9e2d0.francecentral-01.azurewebsites.net"
   phases:
     - duration: 10
       arrivalRate: 5
